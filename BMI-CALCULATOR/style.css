@@ -1,0 +1,72 @@
+body {
+  font-family: "Caveat", cursive;
+  font-family: "Indie Flower", cursive;
+  font-family: "League Spartan", sans-serif;
+  font-family: "Shadows Into Light", cursive !important;
+  font-size: 20px !important;
+  font-style: inherit;
+}
+
+#bmi-box {
+  color: white;
+  background-color: #303952;
+
+  margin-top: 10%;
+
+  padding: 50px;
+  border-radius: 60px;
+}
+.bmi-clcltr {
+  color: rgb(253, 253, 253);
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 50px;
+  font-weight: bold;
+}
+.row {
+  margin-top: 2px;
+}
+.bmi-result {
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bmi-result .col-md-12 {
+  text-align: center;
+
+  font-size: 25px;
+}
+#result-info {
+  text-align: center;
+  margin-top: 200px;
+}
+#bmi-info {
+  margin: 10px;
+  text-align: center;
+
+  margin-bottom: 0px;
+  width: 550%;
+}
+
+.left-info-text {
+  background-color: #ffb142;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 50px;
+}
+.info-text-1 {
+  background-color: #ff793f;
+
+  font-size: 20px;
+}
+.info-text-2 {
+  background-color: #218c74;
+}
+.info-text-3 {
+  background-color: #227093;
+}
+.right-info-text {
+  background-color: #716fd3e3;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 5px;
+}
